@@ -30,8 +30,8 @@ To make this design with grid is main challenge.
 
 ### Links
 
-- Solution URL: [View Code](https://github.com/VishalMauryastp/single-price-grid-component)
-- Live Site URL: [Preview](https://vishalmauryastp.github.io/single-price-grid-component/)
+- Solution URL: [View Code](https://github.com/VishalMauryastp/single-price-grid-component-master)
+- Live Site URL: [Preview](https://vishalmauryastp.github.io/single-price-grid-component-master/)
 
 ## My process
 
